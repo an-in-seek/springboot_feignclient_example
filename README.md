@@ -1,4 +1,4 @@
-# Spring Boot Feign Client 예제
+# Spring Boot FeignClient 예제
 
 이 프로젝트는 Spring Cloud OpenFeign을 사용하여 Spring Boot 애플리케이션에서 REST 클라이언트를 생성하는 방법을 설명합니다. 이 예제는 게시물 서비스와 사용자 서비스와 상호 작용하는 두 개의 Feign 클라이언트(`PostClient`
 와 `UserClient`)를 포함합니다.
